@@ -1,0 +1,501 @@
+date,description,category,amount,payment_method,notes
+2025-12-27,Course fee,Education,1636.06,Cash,Synthetic sample transaction
+2026-09-04,Personal care items,Personal Care,439.48,Debit Card,Synthetic sample transaction
+2026-07-22,Clothes shopping,Shopping,3463.8,Cash,Synthetic sample transaction
+2026-05-04,Bus ticket,Transportation,416.96,Net Banking,Synthetic sample transaction
+2026-05-02,Metro fare,Transportation,86.83,Debit Card,Synthetic sample transaction
+2026-10-05,Movie ticket,Entertainment,1807.74,UPI,Synthetic sample transaction
+2025-12-26,Monthly rent,Housing,5615.86,UPI,Synthetic sample transaction
+2026-08-07,Swiggy dinner,Food,1384.73,UPI,Synthetic sample transaction
+2026-02-06,Restaurant meal,Food,347.42,UPI,Synthetic sample transaction
+2025-12-29,Stationery,Education,752.71,Credit Card,Synthetic sample transaction
+2026-06-05,Swiggy dinner,Food,423.13,Debit Card,Synthetic sample transaction
+2026-11-17,Home maintenance,Housing,12672.54,Net Banking,Synthetic sample transaction
+2026-08-21,Bus ticket,Transportation,35.55,Net Banking,Synthetic sample transaction
+2026-08-30,Grocery store,Food,959.15,UPI,Synthetic sample transaction
+2026-08-14,Small purchase,Other,1557.23,Net Banking,Synthetic sample transaction
+2026-09-08,Zomato lunch,Food,441.05,Net Banking,Synthetic sample transaction
+2026-05-31,Auto ride,Transportation,561.72,Credit Card,Synthetic sample transaction
+2026-01-10,Swiggy dinner,Food,1478.2,Cash,Synthetic sample transaction
+2026-09-28,Swiggy dinner,Food,1234.69,Cash,Synthetic sample transaction
+2026-05-08,Swiggy dinner,Food,1214.88,Credit Card,Synthetic sample transaction
+2026-05-27,Grocery store,Food,387.23,Debit Card,Synthetic sample transaction
+2026-04-09,Restaurant meal,Food,531.04,UPI,Synthetic sample transaction
+2026-01-30,Cafe coffee,Food,122.37,Cash,Synthetic sample transaction
+2026-10-30,Stationery,Education,212.3,UPI,Synthetic sample transaction
+2026-09-07,Medicine purchase,Health,2203.03,Credit Card,Synthetic sample transaction
+2026-07-18,Mall purchase,Shopping,3732.11,Cash,Synthetic sample transaction
+2026-04-21,Uber ride,Transportation,1071.32,Debit Card,Synthetic sample transaction
+2026-09-22,Water bill,Bills,804.93,UPI,Synthetic sample transaction
+2026-06-12,Salon visit,Personal Care,1070.33,UPI,Synthetic sample transaction
+2026-05-06,Monthly rent,Housing,11594.81,Net Banking,Synthetic sample transaction
+2026-05-08,Restaurant meal,Food,85.69,UPI,Synthetic sample transaction
+2026-02-16,Grocery store,Food,1490.18,Debit Card,Synthetic sample transaction
+2025-12-28,Metro fare,Transportation,178.48,Net Banking,Synthetic sample transaction
+2026-06-15,Metro fare,Transportation,1060.04,Debit Card,Synthetic sample transaction
+2026-10-15,Electricity bill,Bills,3184.6,Cash,Synthetic sample transaction
+2025-12-18,Clothes shopping,Shopping,395.02,Debit Card,Synthetic sample transaction
+2026-10-05,Zomato lunch,Food,498.55,Credit Card,Synthetic sample transaction
+2026-09-23,Amazon purchase,Shopping,4205.79,UPI,Synthetic sample transaction
+2026-03-06,Electricity bill,Bills,3059.43,Cash,Synthetic sample transaction
+2026-07-14,Restaurant meal,Food,1320.92,Cash,Synthetic sample transaction
+2026-01-24,Monthly rent,Housing,12940.01,Debit Card,Synthetic sample transaction
+2026-08-29,Cafe coffee,Food,642.56,Credit Card,Synthetic sample transaction
+2026-08-08,Small purchase,Other,1465.25,Debit Card,Synthetic sample transaction
+2026-04-03,Cafe coffee,Food,1156.96,Net Banking,Synthetic sample transaction
+2025-12-19,Home maintenance,Housing,10450.54,Debit Card,Synthetic sample transaction
+2026-11-15,Miscellaneous expense,Other,74.32,Credit Card,Synthetic sample transaction
+2026-05-07,Miscellaneous expense,Other,1064.45,Debit Card,Synthetic sample transaction
+2026-10-17,Game purchase,Entertainment,325.77,Net Banking,Synthetic sample transaction
+2026-07-31,Movie ticket,Entertainment,1048.02,Credit Card,Synthetic sample transaction
+2026-09-05,Book purchase,Education,981.31,Net Banking,Synthetic sample transaction
+2026-08-30,Concert ticket,Entertainment,528.26,UPI,Synthetic sample transaction
+2026-02-04,Restaurant meal,Food,1299.76,Net Banking,Synthetic sample transaction
+2026-04-07,Internet bill,Bills,1218.31,Debit Card,Synthetic sample transaction
+2026-05-14,Mobile recharge,Bills,3720.78,Net Banking,Synthetic sample transaction
+2026-05-26,Monthly rent,Housing,9927.69,Debit Card,Synthetic sample transaction
+2025-12-11,Flipkart order,Shopping,3747.32,Credit Card,Synthetic sample transaction
+2026-06-13,Mall purchase,Shopping,3947.36,Debit Card,Synthetic sample transaction
+2026-01-20,Online course,Education,717.23,Net Banking,Synthetic sample transaction
+2026-08-24,Auto ride,Transportation,1042.72,Credit Card,Synthetic sample transaction
+2026-08-01,Swiggy dinner,Food,221.8,Cash,Synthetic sample transaction
+2026-10-28,Clothes shopping,Shopping,3756.46,UPI,Synthetic sample transaction
+2026-08-24,Mall purchase,Shopping,4899.24,Cash,Synthetic sample transaction
+2026-04-08,Auto ride,Transportation,871.6,Net Banking,Synthetic sample transaction
+2026-11-14,Flipkart order,Shopping,2063.95,Cash,Synthetic sample transaction
+2026-04-24,Flipkart order,Shopping,3102.39,Debit Card,Synthetic sample transaction
+2026-03-24,Uber ride,Transportation,508.69,Credit Card,Synthetic sample transaction
+2026-10-22,Flipkart order,Shopping,4686.6,Debit Card,Synthetic sample transaction
+2026-04-09,Doctor visit,Health,670.55,Cash,Synthetic sample transaction
+2025-12-22,Fuel purchase,Transportation,491.11,UPI,Synthetic sample transaction
+2026-05-15,Miscellaneous expense,Other,367.6,Credit Card,Synthetic sample transaction
+2026-09-12,Miscellaneous expense,Other,711.98,Net Banking,Synthetic sample transaction
+2026-02-02,Electricity bill,Bills,1369.26,UPI,Synthetic sample transaction
+2026-05-13,Metro fare,Transportation,911.6,Net Banking,Synthetic sample transaction
+2026-01-11,Internet bill,Bills,1534.94,Cash,Synthetic sample transaction
+2026-08-03,Monthly rent,Housing,7414.96,Debit Card,Synthetic sample transaction
+2026-05-18,Book purchase,Education,2863.66,Cash,Synthetic sample transaction
+2026-03-25,Movie ticket,Entertainment,208.42,Debit Card,Synthetic sample transaction
+2026-02-16,Electricity bill,Bills,4804.8,Credit Card,Synthetic sample transaction
+2026-06-19,Online course,Education,3023.49,UPI,Synthetic sample transaction
+2026-07-28,Uber ride,Transportation,325.35,Cash,Synthetic sample transaction
+2026-11-04,Netflix subscription,Entertainment,1935.53,Net Banking,Synthetic sample transaction
+2026-05-03,Swiggy dinner,Food,1360.33,Net Banking,Synthetic sample transaction
+2026-01-22,Doctor visit,Health,2948.86,Net Banking,Synthetic sample transaction
+2026-09-25,Haircut,Personal Care,200.55,UPI,Synthetic sample transaction
+2026-07-13,Zomato lunch,Food,512.34,Debit Card,Synthetic sample transaction
+2026-08-08,Online course,Education,672.17,Net Banking,Synthetic sample transaction
+2025-12-30,Grocery store,Food,955.79,Debit Card,Synthetic sample transaction
+2026-03-19,Apollo pharmacy,Health,579.4,Cash,Synthetic sample transaction
+2026-09-02,Swiggy dinner,Food,307.64,Net Banking,Synthetic sample transaction
+2026-09-25,Small purchase,Other,1189.24,Credit Card,Synthetic sample transaction
+2026-05-03,Restaurant meal,Food,500.37,Cash,Synthetic sample transaction
+2026-09-15,Miscellaneous expense,Other,839.47,Credit Card,Synthetic sample transaction
+2026-09-29,Movie ticket,Entertainment,1953.65,Cash,Synthetic sample transaction
+2026-04-15,Book purchase,Education,5655.08,UPI,Synthetic sample transaction
+2026-10-19,Concert ticket,Entertainment,2250.69,UPI,Synthetic sample transaction
+2026-03-10,Movie ticket,Entertainment,734.9,Net Banking,Synthetic sample transaction
+2026-02-20,Small purchase,Other,400.01,Debit Card,Synthetic sample transaction
+2026-08-01,Uber ride,Transportation,556.34,Cash,Synthetic sample transaction
+2026-07-16,Course fee,Education,4290.45,Net Banking,Synthetic sample transaction
+2026-01-15,Cafe coffee,Food,1321.9,Cash,Synthetic sample transaction
+2026-09-25,Stationery,Education,3232.02,Cash,Synthetic sample transaction
+2026-02-06,Zomato lunch,Food,427.61,UPI,Synthetic sample transaction
+2026-09-15,Electricity bill,Bills,4712.09,Net Banking,Synthetic sample transaction
+2025-11-27,Internet bill,Bills,3931.32,Debit Card,Synthetic sample transaction
+2026-09-12,Clothes shopping,Shopping,2529.45,Debit Card,Synthetic sample transaction
+2026-09-09,Water bill,Bills,2775.53,Debit Card,Synthetic sample transaction
+2026-09-06,Netflix subscription,Entertainment,416.21,UPI,Synthetic sample transaction
+2026-07-26,Movie ticket,Entertainment,2385.4,Debit Card,Synthetic sample transaction
+2026-05-16,Electricity bill,Bills,4775.39,UPI,Synthetic sample transaction
+2026-08-10,Online course,Education,3371.06,Cash,Synthetic sample transaction
+2026-03-06,Small purchase,Other,543.71,UPI,Synthetic sample transaction
+2026-09-06,Swiggy dinner,Food,248.91,Net Banking,Synthetic sample transaction
+2026-06-16,Restaurant meal,Food,536.58,Credit Card,Synthetic sample transaction
+2026-05-11,Restaurant meal,Food,740.32,Debit Card,Synthetic sample transaction
+2026-05-29,Stationery,Education,3238.13,UPI,Synthetic sample transaction
+2026-06-21,Amazon purchase,Shopping,4944.73,Net Banking,Synthetic sample transaction
+2025-12-08,Netflix subscription,Entertainment,1879.88,Debit Card,Synthetic sample transaction
+2026-01-15,Medicine purchase,Health,543.34,Net Banking,Synthetic sample transaction
+2026-02-22,Metro fare,Transportation,429.42,UPI,Synthetic sample transaction
+2026-01-05,Salon visit,Personal Care,579.37,Credit Card,Synthetic sample transaction
+2026-05-04,Movie ticket,Entertainment,1594.5,Credit Card,Synthetic sample transaction
+2026-07-27,Auto ride,Transportation,958.55,Cash,Synthetic sample transaction
+2026-07-22,Flipkart order,Shopping,4630.35,Debit Card,Synthetic sample transaction
+2026-05-16,Fuel purchase,Transportation,777.65,UPI,Synthetic sample transaction
+2026-10-03,Zomato lunch,Food,1490.58,Cash,Synthetic sample transaction
+2026-06-19,Zomato lunch,Food,168.13,Debit Card,Synthetic sample transaction
+2025-12-23,Miscellaneous expense,Other,301.61,UPI,Synthetic sample transaction
+2026-08-31,Clothes shopping,Shopping,3216.57,Cash,Synthetic sample transaction
+2026-06-23,Flipkart order,Shopping,4620.98,Cash,Synthetic sample transaction
+2026-07-15,Medicine purchase,Health,2205.92,Debit Card,Synthetic sample transaction
+2026-06-19,Mobile recharge,Bills,3367.77,Debit Card,Synthetic sample transaction
+2026-06-15,Small purchase,Other,971.93,Net Banking,Synthetic sample transaction
+2025-12-28,Concert ticket,Entertainment,922.51,UPI,Synthetic sample transaction
+2026-06-17,Mall purchase,Shopping,3438.76,Net Banking,Synthetic sample transaction
+2026-09-11,Mall purchase,Shopping,345.23,Debit Card,Synthetic sample transaction
+2026-03-16,Small purchase,Other,1790.35,Credit Card,Synthetic sample transaction
+2026-07-03,Doctor visit,Health,2976.24,Debit Card,Synthetic sample transaction
+2025-12-06,Miscellaneous expense,Other,1336.99,Cash,Synthetic sample transaction
+2026-04-01,Cafe coffee,Food,1425.5,Cash,Synthetic sample transaction
+2026-05-03,Monthly rent,Housing,14600.64,Debit Card,Synthetic sample transaction
+2026-11-19,Course fee,Education,3414.73,Credit Card,Synthetic sample transaction
+2026-02-11,Cafe coffee,Food,802.69,Net Banking,Synthetic sample transaction
+2026-03-06,Course fee,Education,2573.88,Credit Card,Synthetic sample transaction
+2026-04-23,Medicine purchase,Health,1092.85,Debit Card,Synthetic sample transaction
+2026-11-23,Zomato lunch,Food,704.87,UPI,Synthetic sample transaction
+2026-10-03,Clothes shopping,Shopping,594.86,Credit Card,Synthetic sample transaction
+2025-12-07,Home maintenance,Housing,13521.73,Credit Card,Synthetic sample transaction
+2026-02-18,Auto ride,Transportation,53.13,Cash,Synthetic sample transaction
+2026-09-21,Amazon purchase,Shopping,1109.38,Credit Card,Synthetic sample transaction
+2025-12-16,Mall purchase,Shopping,4324.06,Cash,Synthetic sample transaction
+2026-10-04,Uber ride,Transportation,811.38,UPI,Synthetic sample transaction
+2026-03-07,Small purchase,Other,586.55,UPI,Synthetic sample transaction
+2026-10-26,Netflix subscription,Entertainment,780.45,Credit Card,Synthetic sample transaction
+2026-03-12,Cafe coffee,Food,1372.66,Cash,Synthetic sample transaction
+2026-05-02,Small purchase,Other,1107.05,Credit Card,Synthetic sample transaction
+2026-07-25,Haircut,Personal Care,1434.09,Credit Card,Synthetic sample transaction
+2026-01-10,Bus ticket,Transportation,328.48,Credit Card,Synthetic sample transaction
+2026-06-16,Home maintenance,Housing,9166.39,Net Banking,Synthetic sample transaction
+2026-05-28,Grocery store,Food,647.54,Credit Card,Synthetic sample transaction
+2026-09-07,Small purchase,Other,95.29,Debit Card,Synthetic sample transaction
+2026-11-24,Medicine purchase,Health,2637.81,Credit Card,Synthetic sample transaction
+2026-07-26,Course fee,Education,2719.26,Net Banking,Synthetic sample transaction
+2026-04-23,Zomato lunch,Food,1292.66,Cash,Synthetic sample transaction
+2026-04-22,Personal care items,Personal Care,862.37,Debit Card,Synthetic sample transaction
+2026-04-26,Restaurant meal,Food,977.73,Cash,Synthetic sample transaction
+2026-09-18,Metro fare,Transportation,315.72,Net Banking,Synthetic sample transaction
+2026-03-22,Zomato lunch,Food,1391.9,Net Banking,Synthetic sample transaction
+2026-01-25,Movie ticket,Entertainment,2447.69,Credit Card,Synthetic sample transaction
+2026-03-27,Zomato lunch,Food,1165.83,Credit Card,Synthetic sample transaction
+2025-12-03,Small purchase,Other,987.18,Debit Card,Synthetic sample transaction
+2026-01-02,Stationery,Education,1517.34,Credit Card,Synthetic sample transaction
+2025-12-27,Zomato lunch,Food,490.83,Cash,Synthetic sample transaction
+2026-09-03,Zomato lunch,Food,912.07,Debit Card,Synthetic sample transaction
+2026-08-16,Cafe coffee,Food,390.78,Net Banking,Synthetic sample transaction
+2026-08-07,Stationery,Education,5177.36,UPI,Synthetic sample transaction
+2026-05-13,Movie ticket,Entertainment,118.02,Cash,Synthetic sample transaction
+2026-08-14,Uber ride,Transportation,963.09,Net Banking,Synthetic sample transaction
+2026-01-23,Home maintenance,Housing,6798.28,Credit Card,Synthetic sample transaction
+2026-10-20,Swiggy dinner,Food,244.3,Cash,Synthetic sample transaction
+2026-05-27,Netflix subscription,Entertainment,2496.66,UPI,Synthetic sample transaction
+2026-11-03,Miscellaneous expense,Other,350.23,Debit Card,Synthetic sample transaction
+2026-01-19,Game purchase,Entertainment,1587.2,Net Banking,Synthetic sample transaction
+2026-05-26,Doctor visit,Health,2944.38,UPI,Synthetic sample transaction
+2026-08-06,Home maintenance,Housing,6793.97,Credit Card,Synthetic sample transaction
+2026-05-25,Grocery store,Food,464.3,Net Banking,Synthetic sample transaction
+2026-05-07,Grocery store,Food,1022.1,UPI,Synthetic sample transaction
+2026-01-24,Grocery store,Food,1262.19,UPI,Synthetic sample transaction
+2026-04-13,Mobile recharge,Bills,2232.78,Debit Card,Synthetic sample transaction
+2026-02-20,Netflix subscription,Entertainment,1301.84,Credit Card,Synthetic sample transaction
+2026-03-15,Course fee,Education,3950.85,Net Banking,Synthetic sample transaction
+2026-08-02,Monthly rent,Housing,17992.48,Debit Card,Synthetic sample transaction
+2026-07-13,Cafe coffee,Food,215.18,Credit Card,Synthetic sample transaction
+2026-07-05,Netflix subscription,Entertainment,2443.99,Cash,Synthetic sample transaction
+2026-04-06,Swiggy dinner,Food,734.92,Debit Card,Synthetic sample transaction
+2026-11-11,Bus ticket,Transportation,90.16,Credit Card,Synthetic sample transaction
+2025-12-27,Apollo pharmacy,Health,1124.68,Credit Card,Synthetic sample transaction
+2026-03-30,Small purchase,Other,1672.63,Net Banking,Synthetic sample transaction
+2026-01-07,Book purchase,Education,2558.33,Cash,Synthetic sample transaction
+2026-03-29,Cafe coffee,Food,1143.33,Net Banking,Synthetic sample transaction
+2026-11-12,Course fee,Education,2998.42,Net Banking,Synthetic sample transaction
+2026-04-08,Grocery store,Food,284.35,Net Banking,Synthetic sample transaction
+2026-10-23,Salon visit,Personal Care,234.53,UPI,Synthetic sample transaction
+2026-05-25,Apollo pharmacy,Health,1648.14,UPI,Synthetic sample transaction
+2026-08-08,Zomato lunch,Food,154.99,UPI,Synthetic sample transaction
+2026-05-11,Restaurant meal,Food,699.57,Credit Card,Synthetic sample transaction
+2026-03-02,Zomato lunch,Food,129.47,Credit Card,Synthetic sample transaction
+2026-08-31,Miscellaneous expense,Other,1655.1,UPI,Synthetic sample transaction
+2026-11-14,Amazon purchase,Shopping,862.29,Net Banking,Synthetic sample transaction
+2026-03-01,Concert ticket,Entertainment,2075.5,Debit Card,Synthetic sample transaction
+2026-09-06,Course fee,Education,4933.28,UPI,Synthetic sample transaction
+2026-02-28,Mobile recharge,Bills,2093.51,Credit Card,Synthetic sample transaction
+2026-08-14,Zomato lunch,Food,445.58,Credit Card,Synthetic sample transaction
+2026-09-09,Small purchase,Other,1033.15,Credit Card,Synthetic sample transaction
+2026-05-08,Bus ticket,Transportation,573.68,Cash,Synthetic sample transaction
+2026-08-21,Mobile recharge,Bills,1252.11,Cash,Synthetic sample transaction
+2026-03-04,Medicine purchase,Health,2279.32,UPI,Synthetic sample transaction
+2025-12-24,Book purchase,Education,607.3,UPI,Synthetic sample transaction
+2025-12-30,Miscellaneous expense,Other,391.93,Net Banking,Synthetic sample transaction
+2026-05-07,Cafe coffee,Food,645.88,Net Banking,Synthetic sample transaction
+2026-10-21,Water bill,Bills,858.61,Credit Card,Synthetic sample transaction
+2026-01-10,Mall purchase,Shopping,2326.34,Cash,Synthetic sample transaction
+2026-05-10,Mall purchase,Shopping,4394.16,Net Banking,Synthetic sample transaction
+2026-08-09,Grocery store,Food,1319.46,UPI,Synthetic sample transaction
+2026-02-07,Grocery store,Food,393.53,Credit Card,Synthetic sample transaction
+2026-08-16,Bus ticket,Transportation,368.23,Credit Card,Synthetic sample transaction
+2026-03-16,Fuel purchase,Transportation,692.71,Debit Card,Synthetic sample transaction
+2026-09-16,Clothes shopping,Shopping,4168.45,Credit Card,Synthetic sample transaction
+2026-06-24,Stationery,Education,256.81,UPI,Synthetic sample transaction
+2026-06-13,Book purchase,Education,3649.19,Debit Card,Synthetic sample transaction
+2026-01-28,Clothes shopping,Shopping,1411.9,Debit Card,Synthetic sample transaction
+2026-05-13,Amazon purchase,Shopping,3825.87,Net Banking,Synthetic sample transaction
+2026-10-04,Swiggy dinner,Food,876.94,Cash,Synthetic sample transaction
+2025-12-02,Course fee,Education,1697.11,Debit Card,Synthetic sample transaction
+2026-08-29,Metro fare,Transportation,398.26,Debit Card,Synthetic sample transaction
+2026-05-24,Restaurant meal,Food,1040.85,UPI,Synthetic sample transaction
+2026-08-15,Amazon purchase,Shopping,155.18,Cash,Synthetic sample transaction
+2026-07-25,Mall purchase,Shopping,4488.38,Credit Card,Synthetic sample transaction
+2026-05-02,Auto ride,Transportation,231.19,Net Banking,Synthetic sample transaction
+2026-03-17,Water bill,Bills,2455.79,Debit Card,Synthetic sample transaction
+2026-07-12,Internet bill,Bills,4690.6,UPI,Synthetic sample transaction
+2026-01-15,Doctor visit,Health,724.02,Debit Card,Synthetic sample transaction
+2026-06-26,Book purchase,Education,1253.37,Credit Card,Synthetic sample transaction
+2025-12-29,Online course,Education,1363.14,UPI,Synthetic sample transaction
+2026-07-20,Uber ride,Transportation,272.17,Debit Card,Synthetic sample transaction
+2026-07-13,Movie ticket,Entertainment,522.73,UPI,Synthetic sample transaction
+2025-12-25,Electricity bill,Bills,4329.35,Cash,Synthetic sample transaction
+2026-08-29,Amazon purchase,Shopping,1899.68,UPI,Synthetic sample transaction
+2026-04-26,Book purchase,Education,2208.48,Cash,Synthetic sample transaction
+2026-09-09,Clothes shopping,Shopping,3110.85,Cash,Synthetic sample transaction
+2025-12-10,Electricity bill,Bills,4464.15,Net Banking,Synthetic sample transaction
+2026-01-29,Game purchase,Entertainment,339.59,UPI,Synthetic sample transaction
+2026-05-24,Haircut,Personal Care,261.46,Credit Card,Synthetic sample transaction
+2026-02-01,Miscellaneous expense,Other,287.84,Net Banking,Synthetic sample transaction
+2026-03-25,Electricity bill,Bills,3820.5,Net Banking,Synthetic sample transaction
+2026-07-24,Electricity bill,Bills,2725.09,Net Banking,Synthetic sample transaction
+2026-01-16,Movie ticket,Entertainment,206.02,Debit Card,Synthetic sample transaction
+2026-07-31,Metro fare,Transportation,409.01,Net Banking,Synthetic sample transaction
+2026-01-01,Home maintenance,Housing,12499.19,Net Banking,Synthetic sample transaction
+2026-01-28,Water bill,Bills,1017.64,Net Banking,Synthetic sample transaction
+2026-06-28,Grocery store,Food,788.07,Debit Card,Synthetic sample transaction
+2026-09-11,Restaurant meal,Food,1458.66,Cash,Synthetic sample transaction
+2026-01-26,Home maintenance,Housing,10167.83,Debit Card,Synthetic sample transaction
+2026-03-14,Cafe coffee,Food,261.83,Cash,Synthetic sample transaction
+2026-10-29,Auto ride,Transportation,256.05,UPI,Synthetic sample transaction
+2026-11-22,Uber ride,Transportation,1043.39,Debit Card,Synthetic sample transaction
+2026-06-25,Cafe coffee,Food,589.32,Debit Card,Synthetic sample transaction
+2026-05-07,Auto ride,Transportation,534.88,Credit Card,Synthetic sample transaction
+2026-03-31,Game purchase,Entertainment,2324.25,Net Banking,Synthetic sample transaction
+2026-07-07,Cafe coffee,Food,635.92,Cash,Synthetic sample transaction
+2026-06-29,Home maintenance,Housing,10863.6,Debit Card,Synthetic sample transaction
+2026-03-12,Monthly rent,Housing,11003.63,Credit Card,Synthetic sample transaction
+2025-12-03,Clothes shopping,Shopping,2838.84,Cash,Synthetic sample transaction
+2026-01-19,Swiggy dinner,Food,570.94,Cash,Synthetic sample transaction
+2026-11-10,Book purchase,Education,658.37,UPI,Synthetic sample transaction
+2026-04-27,Restaurant meal,Food,1106.82,Cash,Synthetic sample transaction
+2026-05-20,Mall purchase,Shopping,1190.51,Debit Card,Synthetic sample transaction
+2026-05-14,Small purchase,Other,1523.3,Cash,Synthetic sample transaction
+2026-09-07,Small purchase,Other,1662.24,Net Banking,Synthetic sample transaction
+2025-12-18,Movie ticket,Entertainment,1533.75,Credit Card,Synthetic sample transaction
+2025-12-25,Fuel purchase,Transportation,91.51,Net Banking,Synthetic sample transaction
+2026-03-05,Apollo pharmacy,Health,1238.21,Net Banking,Synthetic sample transaction
+2026-05-22,Medicine purchase,Health,1779.03,UPI,Synthetic sample transaction
+2026-07-28,Mall purchase,Shopping,336.93,Credit Card,Synthetic sample transaction
+2026-05-23,Course fee,Education,3419.74,UPI,Synthetic sample transaction
+2026-05-05,Swiggy dinner,Food,1135.71,Net Banking,Synthetic sample transaction
+2026-11-03,Zomato lunch,Food,784.91,Debit Card,Synthetic sample transaction
+2026-01-22,Mobile recharge,Bills,226.27,Credit Card,Synthetic sample transaction
+2026-06-22,Restaurant meal,Food,549.62,Net Banking,Synthetic sample transaction
+2026-06-11,Restaurant meal,Food,609.75,Debit Card,Synthetic sample transaction
+2026-05-17,Home maintenance,Housing,8514.44,UPI,Synthetic sample transaction
+2026-09-16,Miscellaneous expense,Other,1561.07,Debit Card,Synthetic sample transaction
+2026-03-02,Electricity bill,Bills,2775.14,Net Banking,Synthetic sample transaction
+2026-11-09,Home maintenance,Housing,17526.54,Net Banking,Synthetic sample transaction
+2026-03-26,Small purchase,Other,415.84,Debit Card,Synthetic sample transaction
+2026-06-12,Grocery store,Food,1326.97,Cash,Synthetic sample transaction
+2026-06-03,Clothes shopping,Shopping,640.36,Net Banking,Synthetic sample transaction
+2026-10-02,Amazon purchase,Shopping,2486.55,Debit Card,Synthetic sample transaction
+2026-05-04,Cafe coffee,Food,1474.64,Credit Card,Synthetic sample transaction
+2026-03-09,Game purchase,Entertainment,1119.95,Cash,Synthetic sample transaction
+2025-12-02,Amazon purchase,Shopping,2175.45,UPI,Synthetic sample transaction
+2026-04-07,Amazon purchase,Shopping,4004.54,Net Banking,Synthetic sample transaction
+2026-09-23,Cafe coffee,Food,483.84,Cash,Synthetic sample transaction
+2025-11-28,Swiggy dinner,Food,1321.55,UPI,Synthetic sample transaction
+2026-10-18,Small purchase,Other,1064.89,Debit Card,Synthetic sample transaction
+2026-06-11,Grocery store,Food,1059.98,UPI,Synthetic sample transaction
+2026-01-15,Uber ride,Transportation,811.95,Cash,Synthetic sample transaction
+2026-03-15,Uber ride,Transportation,753.9,UPI,Synthetic sample transaction
+2026-06-15,Water bill,Bills,2416.29,Debit Card,Synthetic sample transaction
+2026-03-20,Book purchase,Education,1364.53,UPI,Synthetic sample transaction
+2026-01-03,Internet bill,Bills,1104.68,Cash,Synthetic sample transaction
+2026-07-26,Grocery store,Food,217.47,Net Banking,Synthetic sample transaction
+2026-07-29,Bus ticket,Transportation,503.84,Net Banking,Synthetic sample transaction
+2026-01-07,Monthly rent,Housing,17667.42,UPI,Synthetic sample transaction
+2026-03-07,Online course,Education,3944.85,Net Banking,Synthetic sample transaction
+2026-02-22,Book purchase,Education,3841.98,Debit Card,Synthetic sample transaction
+2026-07-24,Doctor visit,Health,1350.12,UPI,Synthetic sample transaction
+2026-08-19,Netflix subscription,Entertainment,1383.04,Net Banking,Synthetic sample transaction
+2026-08-18,Cafe coffee,Food,1441.36,UPI,Synthetic sample transaction
+2026-11-03,Flipkart order,Shopping,3573.12,Cash,Synthetic sample transaction
+2026-09-02,Internet bill,Bills,4534.35,UPI,Synthetic sample transaction
+2026-03-22,Fuel purchase,Transportation,1124.97,Net Banking,Synthetic sample transaction
+2026-01-03,Monthly rent,Housing,6527.56,UPI,Synthetic sample transaction
+2026-07-07,Water bill,Bills,4206.6,UPI,Synthetic sample transaction
+2026-10-26,Movie ticket,Entertainment,1383.76,Net Banking,Synthetic sample transaction
+2026-11-16,Home maintenance,Housing,12376.83,Cash,Synthetic sample transaction
+2026-02-17,Water bill,Bills,2336.08,UPI,Synthetic sample transaction
+2026-02-19,Miscellaneous expense,Other,1939.07,Cash,Synthetic sample transaction
+2025-12-08,Stationery,Education,1217.24,Cash,Synthetic sample transaction
+2026-01-15,Monthly rent,Housing,17536.85,UPI,Synthetic sample transaction
+2026-06-16,Uber ride,Transportation,1044.74,Credit Card,Synthetic sample transaction
+2026-06-13,Electricity bill,Bills,4184.09,Net Banking,Synthetic sample transaction
+2026-04-09,Internet bill,Bills,4242.34,Net Banking,Synthetic sample transaction
+2026-03-18,Restaurant meal,Food,260.25,Credit Card,Synthetic sample transaction
+2026-09-24,Clothes shopping,Shopping,2796.53,Debit Card,Synthetic sample transaction
+2026-05-12,Miscellaneous expense,Other,1802.9,Net Banking,Synthetic sample transaction
+2026-09-16,Online course,Education,4258.55,Debit Card,Synthetic sample transaction
+2026-11-12,Restaurant meal,Food,728.09,Cash,Synthetic sample transaction
+2026-03-21,Uber ride,Transportation,453.07,Cash,Synthetic sample transaction
+2026-02-07,Cafe coffee,Food,207.45,UPI,Synthetic sample transaction
+2026-11-08,Cafe coffee,Food,1187.42,Debit Card,Synthetic sample transaction
+2026-07-15,Small purchase,Other,1864.83,Credit Card,Synthetic sample transaction
+2026-03-11,Clothes shopping,Shopping,320.6,UPI,Synthetic sample transaction
+2026-07-10,Bus ticket,Transportation,270.81,Net Banking,Synthetic sample transaction
+2026-06-01,Book purchase,Education,1390.35,Debit Card,Synthetic sample transaction
+2026-10-22,Restaurant meal,Food,1409.37,Net Banking,Synthetic sample transaction
+2026-02-26,Metro fare,Transportation,306.54,UPI,Synthetic sample transaction
+2026-11-22,Medicine purchase,Health,545.45,UPI,Synthetic sample transaction
+2026-11-02,Course fee,Education,1251.23,Debit Card,Synthetic sample transaction
+2026-01-30,Miscellaneous expense,Other,1829.28,Debit Card,Synthetic sample transaction
+2026-01-24,Online course,Education,3793.34,Cash,Synthetic sample transaction
+2026-06-08,Mall purchase,Shopping,4032.83,Credit Card,Synthetic sample transaction
+2025-12-11,Concert ticket,Entertainment,2173.93,Net Banking,Synthetic sample transaction
+2026-03-14,Miscellaneous expense,Other,728.41,UPI,Synthetic sample transaction
+2026-05-03,Doctor visit,Health,755.19,Debit Card,Synthetic sample transaction
+2026-11-14,Small purchase,Other,1894.1,Cash,Synthetic sample transaction
+2026-11-23,Movie ticket,Entertainment,1949.86,Debit Card,Synthetic sample transaction
+2026-01-19,Haircut,Personal Care,355.93,Cash,Synthetic sample transaction
+2026-10-17,Swiggy dinner,Food,1007.53,Credit Card,Synthetic sample transaction
+2025-12-28,Game purchase,Entertainment,1143.42,Cash,Synthetic sample transaction
+2026-08-25,Mall purchase,Shopping,3651.25,UPI,Synthetic sample transaction
+2026-09-30,Water bill,Bills,4696.01,UPI,Synthetic sample transaction
+2026-10-17,Stationery,Education,733.14,Debit Card,Synthetic sample transaction
+2026-02-14,Miscellaneous expense,Other,1063.12,Debit Card,Synthetic sample transaction
+2026-10-18,Miscellaneous expense,Other,901.5,Net Banking,Synthetic sample transaction
+2026-01-06,Metro fare,Transportation,598.95,Debit Card,Synthetic sample transaction
+2026-06-02,Game purchase,Entertainment,1112.24,UPI,Synthetic sample transaction
+2026-05-15,Movie ticket,Entertainment,1523.1,Cash,Synthetic sample transaction
+2026-03-20,Fuel purchase,Transportation,776.0,UPI,Synthetic sample transaction
+2025-12-03,Swiggy dinner,Food,1473.57,Debit Card,Synthetic sample transaction
+2026-09-03,Zomato lunch,Food,1353.39,Debit Card,Synthetic sample transaction
+2026-03-27,Game purchase,Entertainment,244.79,Net Banking,Synthetic sample transaction
+2026-07-25,Mobile recharge,Bills,3311.28,Credit Card,Synthetic sample transaction
+2026-04-24,Miscellaneous expense,Other,884.93,Credit Card,Synthetic sample transaction
+2026-04-10,Mall purchase,Shopping,4302.71,Credit Card,Synthetic sample transaction
+2026-10-15,Miscellaneous expense,Other,727.96,Credit Card,Synthetic sample transaction
+2025-12-29,Mall purchase,Shopping,3408.49,Net Banking,Synthetic sample transaction
+2026-08-21,Concert ticket,Entertainment,990.19,Debit Card,Synthetic sample transaction
+2026-08-25,Zomato lunch,Food,1233.21,Debit Card,Synthetic sample transaction
+2026-04-13,Internet bill,Bills,3735.55,Debit Card,Synthetic sample transaction
+2026-03-01,Concert ticket,Entertainment,617.19,Credit Card,Synthetic sample transaction
+2025-11-26,Miscellaneous expense,Other,305.75,UPI,Synthetic sample transaction
+2026-11-02,Monthly rent,Housing,13148.72,Credit Card,Synthetic sample transaction
+2026-11-06,Cafe coffee,Food,1350.46,Cash,Synthetic sample transaction
+2026-02-21,Amazon purchase,Shopping,687.01,Net Banking,Synthetic sample transaction
+2025-12-06,Zomato lunch,Food,299.28,UPI,Synthetic sample transaction
+2026-01-08,Zomato lunch,Food,493.69,Debit Card,Synthetic sample transaction
+2025-12-19,Medicine purchase,Health,2660.19,Credit Card,Synthetic sample transaction
+2026-09-25,Medicine purchase,Health,2153.66,UPI,Synthetic sample transaction
+2026-10-17,Game purchase,Entertainment,958.44,Debit Card,Synthetic sample transaction
+2026-01-20,Haircut,Personal Care,306.4,Cash,Synthetic sample transaction
+2026-08-25,Netflix subscription,Entertainment,840.0,UPI,Synthetic sample transaction
+2026-01-29,Game purchase,Entertainment,1420.58,Credit Card,Synthetic sample transaction
+2026-04-08,Grocery store,Food,179.3,Debit Card,Synthetic sample transaction
+2026-07-02,Metro fare,Transportation,945.19,Credit Card,Synthetic sample transaction
+2026-08-15,Course fee,Education,4908.93,Debit Card,Synthetic sample transaction
+2026-10-11,Monthly rent,Housing,15667.24,Cash,Synthetic sample transaction
+2025-12-11,Swiggy dinner,Food,592.35,UPI,Synthetic sample transaction
+2026-02-04,Internet bill,Bills,2443.93,Cash,Synthetic sample transaction
+2026-03-07,Medicine purchase,Health,798.69,Credit Card,Synthetic sample transaction
+2026-03-18,Swiggy dinner,Food,525.66,Cash,Synthetic sample transaction
+2026-11-25,Amazon purchase,Shopping,784.82,Debit Card,Synthetic sample transaction
+2026-09-05,Personal care items,Personal Care,524.15,Cash,Synthetic sample transaction
+2026-03-22,Doctor visit,Health,784.39,Credit Card,Synthetic sample transaction
+2026-11-15,Bus ticket,Transportation,1118.1,Debit Card,Synthetic sample transaction
+2026-05-26,Monthly rent,Housing,13358.98,Net Banking,Synthetic sample transaction
+2026-05-27,Metro fare,Transportation,1198.63,Credit Card,Synthetic sample transaction
+2026-05-02,Home maintenance,Housing,16567.13,Net Banking,Synthetic sample transaction
+2026-01-16,Bus ticket,Transportation,956.0,Debit Card,Synthetic sample transaction
+2026-11-01,Stationery,Education,578.81,UPI,Synthetic sample transaction
+2025-11-30,Clothes shopping,Shopping,2464.42,Debit Card,Synthetic sample transaction
+2026-01-27,Metro fare,Transportation,506.61,Debit Card,Synthetic sample transaction
+2026-02-17,Haircut,Personal Care,873.03,Net Banking,Synthetic sample transaction
+2026-03-07,Cafe coffee,Food,234.29,Cash,Synthetic sample transaction
+2026-01-12,Swiggy dinner,Food,1206.07,Net Banking,Synthetic sample transaction
+2025-12-01,Fuel purchase,Transportation,1193.94,Net Banking,Synthetic sample transaction
+2026-07-31,Apollo pharmacy,Health,2680.71,Cash,Synthetic sample transaction
+2026-11-14,Concert ticket,Entertainment,1063.99,Cash,Synthetic sample transaction
+2026-01-08,Small purchase,Other,1232.28,Net Banking,Synthetic sample transaction
+2026-03-13,Auto ride,Transportation,433.23,Debit Card,Synthetic sample transaction
+2026-05-29,Amazon purchase,Shopping,1587.05,UPI,Synthetic sample transaction
+2026-10-30,Cafe coffee,Food,357.16,UPI,Synthetic sample transaction
+2026-08-06,Water bill,Bills,4756.61,Debit Card,Synthetic sample transaction
+2026-09-01,Miscellaneous expense,Other,1676.54,Credit Card,Synthetic sample transaction
+2026-06-25,Medicine purchase,Health,656.57,UPI,Synthetic sample transaction
+2026-04-26,Online course,Education,4890.73,Cash,Synthetic sample transaction
+2026-02-06,Mall purchase,Shopping,4579.43,UPI,Synthetic sample transaction
+2026-10-07,Small purchase,Other,1371.53,Net Banking,Synthetic sample transaction
+2026-09-15,Water bill,Bills,1329.23,Cash,Synthetic sample transaction
+2025-12-04,Grocery store,Food,1449.62,Cash,Synthetic sample transaction
+2026-08-13,Mall purchase,Shopping,2235.29,Debit Card,Synthetic sample transaction
+2025-12-25,Cafe coffee,Food,439.31,Credit Card,Synthetic sample transaction
+2026-08-22,Grocery store,Food,1176.03,Cash,Synthetic sample transaction
+2026-09-23,Restaurant meal,Food,1265.88,Cash,Synthetic sample transaction
+2026-01-11,Flipkart order,Shopping,170.88,Debit Card,Synthetic sample transaction
+2026-05-02,Online course,Education,5965.06,UPI,Synthetic sample transaction
+2026-01-09,Auto ride,Transportation,273.36,Debit Card,Synthetic sample transaction
+2026-06-20,Mall purchase,Shopping,4078.21,UPI,Synthetic sample transaction
+2026-10-30,Miscellaneous expense,Other,820.71,Credit Card,Synthetic sample transaction
+2025-12-24,Movie ticket,Entertainment,991.7,UPI,Synthetic sample transaction
+2026-04-19,Mobile recharge,Bills,1138.38,Debit Card,Synthetic sample transaction
+2026-11-16,Fuel purchase,Transportation,590.92,Net Banking,Synthetic sample transaction
+2026-03-15,Personal care items,Personal Care,999.15,Credit Card,Synthetic sample transaction
+2026-01-12,Uber ride,Transportation,1180.09,Debit Card,Synthetic sample transaction
+2026-05-22,Bus ticket,Transportation,501.92,Net Banking,Synthetic sample transaction
+2026-05-30,Small purchase,Other,529.46,Credit Card,Synthetic sample transaction
+2026-07-25,Water bill,Bills,3821.95,UPI,Synthetic sample transaction
+2026-03-19,Movie ticket,Entertainment,1223.76,Cash,Synthetic sample transaction
+2026-11-09,Book purchase,Education,1193.71,Debit Card,Synthetic sample transaction
+2026-06-03,Course fee,Education,1807.64,Credit Card,Synthetic sample transaction
+2026-03-09,Metro fare,Transportation,1091.9,Net Banking,Synthetic sample transaction
+2026-11-11,Fuel purchase,Transportation,341.26,Cash,Synthetic sample transaction
+2026-10-29,Bus ticket,Transportation,328.03,UPI,Synthetic sample transaction
+2026-05-26,Grocery store,Food,1420.19,Debit Card,Synthetic sample transaction
+2025-12-04,Haircut,Personal Care,414.57,Net Banking,Synthetic sample transaction
+2026-07-01,Bus ticket,Transportation,497.06,UPI,Synthetic sample transaction
+2026-06-16,Water bill,Bills,977.32,Credit Card,Synthetic sample transaction
+2026-01-18,Movie ticket,Entertainment,1978.97,Cash,Synthetic sample transaction
+2026-07-15,Concert ticket,Entertainment,2301.75,Net Banking,Synthetic sample transaction
+2026-09-28,Amazon purchase,Shopping,4264.65,Cash,Synthetic sample transaction
+2026-01-02,Mall purchase,Shopping,395.1,Net Banking,Synthetic sample transaction
+2026-08-16,Miscellaneous expense,Other,646.31,Credit Card,Synthetic sample transaction
+2026-01-15,Doctor visit,Health,2303.9,UPI,Synthetic sample transaction
+2026-08-26,Monthly rent,Housing,15150.9,Net Banking,Synthetic sample transaction
+2026-04-27,Small purchase,Other,1470.33,Debit Card,Synthetic sample transaction
+2025-11-27,Movie ticket,Entertainment,2204.03,Debit Card,Synthetic sample transaction
+2026-11-13,Swiggy dinner,Food,1137.57,Net Banking,Synthetic sample transaction
+2026-01-24,Mobile recharge,Bills,3796.89,Cash,Synthetic sample transaction
+2026-07-01,Restaurant meal,Food,247.34,Cash,Synthetic sample transaction
+2026-01-30,Stationery,Education,3066.96,Debit Card,Synthetic sample transaction
+2026-11-01,Small purchase,Other,1186.16,Cash,Synthetic sample transaction
+2026-08-22,Water bill,Bills,3977.08,Net Banking,Synthetic sample transaction
+2026-09-15,Mall purchase,Shopping,1346.62,Credit Card,Synthetic sample transaction
+2026-05-02,Zomato lunch,Food,1042.72,Debit Card,Synthetic sample transaction
+2026-05-15,Miscellaneous expense,Other,417.63,Credit Card,Synthetic sample transaction
+2026-07-15,Swiggy dinner,Food,1444.09,Credit Card,Synthetic sample transaction
+2026-09-08,Swiggy dinner,Food,1383.36,Net Banking,Synthetic sample transaction
+2026-09-30,Bus ticket,Transportation,441.9,Credit Card,Synthetic sample transaction
+2025-12-01,Swiggy dinner,Food,752.98,Net Banking,Synthetic sample transaction
+2026-07-25,Flipkart order,Shopping,604.97,Debit Card,Synthetic sample transaction
+2026-01-03,Electricity bill,Bills,4402.59,Cash,Synthetic sample transaction
+2026-03-10,Fuel purchase,Transportation,951.72,Cash,Synthetic sample transaction
+2026-09-24,Grocery store,Food,1471.57,Net Banking,Synthetic sample transaction
+2026-02-24,Zomato lunch,Food,507.87,Credit Card,Synthetic sample transaction
+2026-09-12,Amazon purchase,Shopping,1783.75,Credit Card,Synthetic sample transaction
+2026-05-13,Restaurant meal,Food,1015.04,Net Banking,Synthetic sample transaction
+2026-02-18,Doctor visit,Health,170.91,Cash,Synthetic sample transaction
+2026-03-27,Zomato lunch,Food,1090.92,Debit Card,Synthetic sample transaction
+2026-06-07,Metro fare,Transportation,609.86,UPI,Synthetic sample transaction
+2026-09-01,Mall purchase,Shopping,1839.14,Net Banking,Synthetic sample transaction
+2026-07-04,Mall purchase,Shopping,299.83,Cash,Synthetic sample transaction
+2026-11-01,Restaurant meal,Food,1422.11,UPI,Synthetic sample transaction
+2026-10-08,Grocery store,Food,1144.58,Cash,Synthetic sample transaction
+2026-08-27,Salon visit,Personal Care,1313.25,Credit Card,Synthetic sample transaction
+2026-07-03,Zomato lunch,Food,1337.7,Cash,Synthetic sample transaction
+2026-03-11,Internet bill,Bills,2750.21,Credit Card,Synthetic sample transaction
+2026-04-25,Water bill,Bills,1379.36,Cash,Synthetic sample transaction
+2026-01-07,Bus ticket,Transportation,61.8,Net Banking,Synthetic sample transaction
+2026-04-10,Amazon purchase,Shopping,3593.58,Credit Card,Synthetic sample transaction
+2026-10-30,Game purchase,Entertainment,1885.59,Debit Card,Synthetic sample transaction
+2026-04-29,Monthly rent,Housing,11189.74,Debit Card,Synthetic sample transaction
